@@ -1,4 +1,4 @@
-Estou compartilhando no meu LinkedIn e GitHub um sistema web que desenvolvi para um cliente. Por se tratar de um projeto exclusivo para uso interno da empresa, não posso divulgar os arquivos do sistema. No entanto, gostaria de apresentar algumas das funcionalidades que implementei e as tecnologias utilizadas no desenvolvimento.
+Estou compartilhando no meu LinkedIn e GitHub um sistema web que desenvolvi para um cliente. Por se tratar de um projeto exclusivo para uso interno da empresa, não posso divulgar os arquivos do sistema. No entanto, gostaria de apresentar algumas das funcionalidades que implementei e as tecnologias utilizadas no desenvolvimento.<br/>
 
 Linguagens e Tecnologias
 • HTML
@@ -7,6 +7,7 @@ Linguagens e Tecnologias
 • PHP
 • Banco de Dados (MySQL)
 • API para consulta de CNPJ
+<br/>
 
 Funcionalidades Desenvolvidas
 
